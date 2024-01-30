@@ -5,7 +5,7 @@
 -Utilized intuitive visual representations to depict LinkedList operations, fostering easier comprehension for users.
 -Technologies used: HTML, CSS, JavaScript.
 
-# Featues
+# Features
 
 -Add Node: Users can add nodes to the linked list by inputting values through a user-friendly interface. Upon submission, the new node is dynamically displayed within the linked list visualization.
 
