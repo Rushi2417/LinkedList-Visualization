@@ -1,8 +1,11 @@
 # LinkedList-Visualization
 
 -Developed a LinkedList Visualization Project focusing on enhancing understanding and interaction with data structures.
+
 -Implemented features allowing users to add, remove, set, and insert nodes dynamically.
+
 -Utilized intuitive visual representations to depict LinkedList operations, fostering easier comprehension for users.
+
 -Technologies used: HTML, CSS, JavaScript.
 
 # Features
