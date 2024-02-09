@@ -18,4 +18,4 @@ Utilized intuitive visual representations to depict LinkedList operations, foste
 **Visual Representation:** The heart of the project lies in its ability to visually represent the linked list structure. Each node is represented graphically, allowing users to comprehend the relationships between nodes and understand the flow of data within the linked list.
 
 
-![GitHub Image](image1.png)
+![GitHub Image](Image1.png)
